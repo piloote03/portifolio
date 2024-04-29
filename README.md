@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo e revendo conceitos em **Python, Javascrpit, ReactJs, CSS, HTML e Java**
 
-- 💬 Me pergunte sobre **java, html, css ,rede, Pacote Office365**
+- 💬 Me pergunte sobre **Java, HTML, CSS, Rede, Pacote Office365**
 
 - 📫 Voce pode me achar através do e-mail **muriloschineider1107@gmail.com**
 
