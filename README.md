@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Murilo Schineider de Sousa</h1>
+<h1 align="center">Olá, sou Murilo Schineider de Sousa</h1>
 <h3 align="center">Sou amante em tecnologia da informação, buscando sempre aprender mais e mais!</h3>
 
 - 🌱 Atualmente estou aprendendo e revendo conceitos em **Python, Javascrpit, ReactJs, CSS, HTML e Java**
